@@ -1,7 +1,6 @@
-FROM eboraas/apache-php
+FROM maxexcloo/phpmyadmin
 
 MAINTAINER zzg "zzg@tianjiancloud.com"
 
-ADD phpAdmin/ /var/www/
 
 
